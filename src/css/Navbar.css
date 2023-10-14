@@ -1,0 +1,65 @@
+.Navbar-main-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    padding: 10px; /* Add padding for spacing */
+    gap: 60%; /* Adjust the gap as needed */
+  }
+  
+  .Navbar-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Navbar-input-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Adjust the gap as needed */
+  }
+  
+  .Navbar-div2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Adjust the gap as needed */
+  }
+  
+  .Navbar-ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Navbar-ul li {
+    margin: 0 20px; /* Adjust the spacing as needed */
+    font-weight: 600;
+  }
+  
+  .Navbar-img {
+    height: 35px; /* Adjust the image size */
+    width: 35px; /* Adjust the image size */
+  }
+  
+  .Navbar-kart-img {
+    height: 70px;
+    width: 70px;
+  }
+  
+  .Navbar-Homeimg-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50%; /* Adjust the gap as needed */
+  }
+  
+  .Navbar-select {
+    border: 0;
+  }
+  
+  
